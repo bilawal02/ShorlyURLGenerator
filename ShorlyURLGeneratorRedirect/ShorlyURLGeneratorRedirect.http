@@ -1,0 +1,6 @@
+@ShorlyURLGeneratorRedirect_HostAddress = http://localhost:5285
+
+GET {{ShorlyURLGeneratorRedirect_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
